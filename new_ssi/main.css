@@ -1,0 +1,19 @@
+.stop_watch{
+  font-size: 120px;
+  
+}
+
+.button{
+    font-size: 30px;
+    padding:20px ;
+}
+
+.button:hover {
+    cursor: pointer;
+
+}
+
+.button:disabled {
+    cursor: default;
+
+}
